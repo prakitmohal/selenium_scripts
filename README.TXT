@@ -8,6 +8,7 @@ Q: Fine. What do I need to install to get this thing running
 A: A few things
 - Python
 - Selenium (pip install selenium)
+- Google Chrome
 - Chrome Webdriver (https://chromedriver.chromium.org/downloads)
 
 Q: what else do I need to do
