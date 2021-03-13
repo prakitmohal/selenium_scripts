@@ -1,5 +1,5 @@
-Q: What does this do?
-A: Automatically gets your PA Tax Refund status
+Q: What does these do?
+A: Automatically gets your Federal and/or PA Tax Refund status
 
 Q: Seems like a lot of work to get a direct deposit date
 A: I'm practicing so I'm ready for the COVID Vaccine Hunger Games
