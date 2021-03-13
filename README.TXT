@@ -12,4 +12,4 @@ A: A few things
 - Chrome Webdriver (https://chromedriver.chromium.org/downloads)
 
 Q: what else do I need to do
-A: You'll want to update the chromedriver location, refund amount, and SSN accordingly in the script
+A: You'll want to update the chromedriver location, refund amount, SSN, and filing status accordingly in the script
