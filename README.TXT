@@ -1,8 +1,8 @@
-Q: What does these do?
+Q: What does these scripts do?
 A: Automatically gets your Federal and/or PA Tax Refund status
 
 Q: Seems like a lot of work to get a direct deposit date
-A: I'm practicing so I'm ready for the COVID Vaccine Hunger Games
+A: IT'S MY MONEY AND I NEED IT NOW
 
 Q: Fine. What do I need to install to get this thing running
 A: A few things
